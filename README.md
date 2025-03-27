@@ -15,7 +15,7 @@ CMSHawk is an automated vulnerability scanner that detects and analyzes security
 Clone the repository and install dependencies:
 ```bash
 # Clone the repo
-git clone https://github.com/yourusername/CMSHawk.git  
+git clone https://github.com/IntruderSecAcademy/cmshawk.git  
 cd CMSHawk  
 
 # Install dependencies
@@ -25,7 +25,7 @@ pip install -r requirements.txt
 ## 🛠️ Usage
 Run CMSHawk to scan a website:
 ```bash
-python cmshawk.py
+python CMSHawk.py
 ```
 Enter the target website URL when prompted.
 
